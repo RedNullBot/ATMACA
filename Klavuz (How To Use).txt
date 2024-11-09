@@ -1,0 +1,24 @@
+Place the atmaca.py file into your user file.
+Example: OS (C:)/Users/yourusername.
+
+Usage: python atmaca.py
+
+First the destination IP address.
+Then target the target port (destination port).
+Then type the number of threads. Recommended = 100.
+Then type the number of bytes you want to send. Recommended = 5000 or 6000.
+
+Please use responsibly. I (the producer) is not responsible for any attacks made using this program. Recommended number of threads = 100. Recommended data size = 5000 or 6000. Use with caution. Don't harm your own computer or internet. If your computer is powerful, you can increase the recommended numbers. If your computer is weak or your internet is very bad, reduce the recommended numbers.
+
+
+atmaca.py dosyasını kullanıcı dosyanızın içerisine yerleştirin.
+Örnek: 	OS (C:)/Kullanıcılar/kullanıcıadınız.
+
+Kullanımı: python atmaca.py
+
+İlk önce hedef IP adresi.
+Ardından hedef bağlantı noktası (hedef port) hedefleyin.
+Sonra iş parçacığı sayısını yazın. Önerilen = 100.
+Sonra göndermek istediğiniz byte sayısını yazın. Önerilen = 5000 veya 6000.
+
+Lütfen sorumlulukla kullanınız. Bu program kullanılarak yapılan hiç bir saldırıdan ben (yapımcı) sorumlu değilim. Önerilen iş parçacığı sayısı = 100. Önerilen veri boyutu = 5000 veya 6000. Dikkatli kullanın. Kendi bilgisayarınıza veya internetinize zarar vermeyin. Eğer bilgisayarınız güçlüyse önerilen sayıları artırabilirsiniz. Eğer bilgisayarınız güçsüzse veya internetiniz çok kötüyse önerilen sayıları azaltarak kullanın.
