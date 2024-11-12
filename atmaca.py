@@ -10,7 +10,6 @@ YELLOW = '\033[33m.'
 RED = "\033[91m"
 RESET = "\033[0m"
 
-print(f"{BLUE}-nosystemistsafe tarafından geliştirilmiştir-{RESET}")
 print(f"""{BLUE}
 "Atmaca, ROKETSAN yapımı bir Türk güdümlü mermisidir. Deniz Sistemleri içinde kullanılır. Menzili 220km'dir. ATMACA programının ismi oradan gelmektedir."
 {RESET}""")
